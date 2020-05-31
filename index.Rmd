@@ -1,0 +1,39 @@
+---
+title: "Cumulative Effects of Marine Vessel Activities in the St. Lawrence River and the Saguenay River – Pilot Project"
+subtitle: "Presentation of Mandate and Methodological Approach"
+author: "David Beauchesne, Cindy Grant, Philippe Archambault"
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+documentclass: krantz
+bibliography: [TC.bib]
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes
+lot: yes
+lof: yes
+fontsize: 12pt
+monofont: "Source Code Pro"
+monofontoptions: "Scale=0.7"
+site: bookdown::bookdown_site
+---
+
+<!-- description: "TO WRITE"
+url: 'https\://bookdown.org/yihui/bookdown/'
+github-repo: rstudio/bookdown
+cover-image: images/cover.jpg -->
+
+<!--
+bookdown::render_book("index.Rmd", "bookdown::gitbook")
+-->
+
+# Background
+
+Transport Canada develops and administers policies and regulations to advance the safety and security of Canada’s marine transportation system. It promotes an efficient and sustainable system that protects the marine environment and contributes to economic development.
+
+In November 2016, the Government of Canada announced the $1.5-billion Oceans Protection Plan (OPP) with the objective of improving marine safety and responsible shipping, protecting Canada’s marine environment and offering new opportunities to Canadians.
+
+Through the OPP, the Government of Canada is committed to preserving and restoring coastal marine ecosystems that are vulnerable to increased marine shipping, while reducing the impact of day-to-day vessel traffic. Many concerns have been expressed about the increase in marine transportation and the impact of other marine activities (a sector of industry that can be a major source of human impact) on coastal and marine ecosystems and on the way of life of Indigenous communities.
+
+To address these concerns, Transport Canada has been working with First Nations, marine industry stakeholders and coastal communities since 2017, and organizing collaborative workshops to ensure that all parties are equally involved throughout the project.
+
+Meanwhile, a project on the development of a common framework to assess the cumulative effects of marine activities on the St. Lawrence was launched under the St. Lawrence Action Plan in 2018. One of the aims of this project is to ensure coordination between the Government of Canada (Transport Canada, Fisheries and Oceans Canada, Canadian Coast Guard and Impact Assessment Agency of Canada) and the Government of Quebec (Ministère de la Sécurité publique [Department of Public Security]; Ministère des Forêts, de la Faune et des Parcs [Department of Forests, Wildlife and Parks]; and Ministère de l’Environnement et de la Lutte contre les changements climatiques [Department of Environment and the Fight Against Climate Change) in collecting and aggregating existing data required for the study, while encouraging close cooperation with First Nations, marine stakeholders and coastal communities.

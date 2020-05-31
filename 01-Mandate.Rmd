@@ -1,0 +1,25 @@
+# Mandate
+
+Transport Canada has retained the services of a team from Laval University to develop a methodology and assess the cumulative effects of marine vessel activities in the St. Lawrence River (fluvial and estuary section) and the Saguenay River (deep-water section) in Quebec.
+
+For this cumulative effects project, the approach adopted is a sectoral one that explores the environmental issues and effects pertaining to a particular sector (that is, a framework based on the assessment of a single sector of industry), given that the objective is to manage the way in which the effects of marine vessel activities, in particular, act cumulatively on the human and biophysical environment. Marine vessel activities include not only commercial vessels, but also cruise ships, ferries, fishing boats and pleasure craft. Port infrastructure is not included in this project. The location, intensity and/or movement of these various types of craft can generate one or more stressors for ecosystems.
+
+This contract will support the Government of Canada and the Government of Quebec in the design of a common framework to assess the cumulative effects of marine vessel activities and will help identify mitigation tools and strategies that can be applied to current vessel movements and the development of future projects. This will be done in a collaborative manner with First Nations, scientists from various backgrounds and managers in order to support evidence-based decision making.
+
+
+## Description of requirements
+
+The Laval University team will develop a methodology to assess the cumulative effects of marine vessel activities, which will be presented to the various collaborators. Using this methodology, the team will assess the cumulative effects of marine vessel activities on the valued components identified by all participants involved in the project for the St. Lawrence (fluvial and estuary section) and the Saguenay River (deep-water section).
+
+Based on this assessment, the Laval University team will produce a report summarizing the methodology used, the analysis performed, the results and the conclusions, which will be presented to the various collaborators.
+
+The team will participate in workshops and discussions with all the participants involved in the project to fully incorporate everyone’s comments and contributions.
+
+## Development of methodology
+
+The analysis methodology used must be capable of:
+
+- integrating the Indigenous and traditional knowledge compiled;
+- using different types of data, including geospatial and tabular (non-georeferenced) data;
+- considering multiple stressors arising from marine vessel activities;
+- comprehensively assessing the cumulative effects of various stressors on the valued components identified during the workshops, including biological, environmental, cultural and socio-economic components.
