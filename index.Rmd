@@ -12,7 +12,7 @@ colorlinks: yes
 lot: yes
 lof: yes
 fontsize: 12pt
-monofont: "Source Code Pro"
+monofont: "Times New Roman"
 monofontoptions: "Scale=0.7"
 site: bookdown::bookdown_site
 ---
@@ -24,6 +24,17 @@ cover-image: images/cover.jpg -->
 
 <!--
 bookdown::render_book("index.Rmd", "bookdown::gitbook")
+
+gitbook:
+    Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
+
+epub:
+    Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::epub_book')"
+
+pdf:
+    Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::pdf_book')"
+
+# pdf to be added
 -->
 
 # Background
